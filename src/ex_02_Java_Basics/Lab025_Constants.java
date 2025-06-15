@@ -5,8 +5,8 @@ public class Lab025_Constants {
         final int a = 10;
         // a=11; --> not allowed because it's constant value
         System.out.println(a);
-        final float pi = 3.14f;
-        System.out.println(pi);
+        final float PI = 3.14f;
+        System.out.println(PI);
 
     }
 }
